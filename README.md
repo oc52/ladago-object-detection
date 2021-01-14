@@ -1,0 +1,1 @@
+# ladago-object-detection
